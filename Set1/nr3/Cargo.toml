@@ -1,0 +1,7 @@
+[package]
+name = "nr3"
+version = "0.1.0"
+authors = ["Valentin Olchowski <valentin.olchowski@gmail.com>"]
+
+[dependencies]
+num-traits = "0.2.6"
