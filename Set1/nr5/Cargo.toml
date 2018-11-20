@@ -1,0 +1,7 @@
+[package]
+name = "nr5"
+version = "0.1.0"
+authors = ["Valentin Olchowski <valentin.olchowski@gmail.com>"]
+
+[dependencies]
+hex-slice = "0.1.4"
